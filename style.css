@@ -1,12 +1,4 @@
-/* Generated on: Sat Sep 04 2021 05:27:15 GMT+0000 (Coordinated Universal Time) */
 
-
-/* ==========================================================================
-   normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
-   ========================================================================== */
-
-
-/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
 html {
   font-family: sans-serif;
@@ -224,9 +216,6 @@ th {
 }
 
 
-/* ==========================================================================
- Start of base Webflow CSS - If you're looking for some ultra-clean CSS, skip the boilerplate and see the unminified code below.
- ========================================================================== */
 
 @font-face {
   font-family: 'webflow-icons';
@@ -2235,10 +2224,6 @@ textarea.w-select {
   display: none !important
 }
 
-
-/* ==========================================================================
- Start of custom Webflow CSS
- ========================================================================== */
 
 body {
   font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
