@@ -2377,7 +2377,7 @@ img {
   overflow: hidden;
   height: 75vh;
   padding-top: 91px;
-  background-image: url("https://uploads-ssl.webflow.com/61136ee8b2a0d2a3096d81cf/612226f637d3062cb6a918d1_hero.png");
+  background-image: url("image/hero.png");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2595,7 +2595,7 @@ img {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: url("https://uploads-ssl.webflow.com/61136ee8b2a0d2a3096d81cf/6132d5c9eb2b4f68afb21186_bg.png");
+  background-image: url("image/bg.png");
   background-position: 0px 0px;
   background-size: auto;
   color: #fff;
@@ -2678,7 +2678,7 @@ img {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: url("https://uploads-ssl.webflow.com/61136ee8b2a0d2a3096d81cf/6132d5c9eb2b4f68afb21186_bg.png");
+  background-image: url("image/bg.png");
   background-position: 0px 0px;
   background-size: auto;
   color: #fff;
